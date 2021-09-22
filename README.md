@@ -1,4 +1,4 @@
 # to-do-list
 
-npm install
-to add dependencies
+# npm install
+# to add dependencies
